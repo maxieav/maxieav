@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @maxieav
+- 👀 I’m interested in development
+- 🌱 I’m currently learning python for data science
+- 💞️ I’m looking to collaborate on any project related to python
+- 📫 How to reach me maxiacosta20@gmail.com
